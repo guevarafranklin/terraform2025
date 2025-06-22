@@ -1,0 +1,4 @@
+This is a local file created by Terraform. This is a list for the next month's products.
+Product 1
+Product 2
+Product 3
